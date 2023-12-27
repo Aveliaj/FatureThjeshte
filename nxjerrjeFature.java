@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class MyFirstProgram {
+public class nxjerrjeFature {
     public static void main(String[] args) {
         JFrame frame = new JFrame("Fatura e Restorantit");
         frame.setSize(400, 300);
